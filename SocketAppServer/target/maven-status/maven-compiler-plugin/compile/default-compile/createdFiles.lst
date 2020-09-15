@@ -1,0 +1,13 @@
+com\betancur\socketapp\view\JPServer$2.class
+com\betancur\socketapp\controller\Main.class
+com\betancur\socketapp\view\JPServer$1.class
+com\betancur\socketapp\controller\ControllerServerDayTime.class
+com\betancur\socketapp\model\ServidorUDP.class
+com\betancur\socketapp\view\resources\ValidadorDeCampos$2.class
+com\betancur\socketapp\view\resources\ValidadorDeCampos$3.class
+com\betancur\socketapp\model\ServidorTCP.class
+com\betancur\socketapp\view\JPServer.class
+com\betancur\socketapp\view\resources\ValidadorDeCampos$1.class
+com\betancur\socketapp\view\resources\ValidadorDeCampos$4.class
+com\betancur\socketapp\view\resources\ValidadorDeCampos.class
+com\betancur\socketapp\view\JFServer.class
